@@ -1,0 +1,7 @@
+Here is my ASP.NET local project. In here i had used Entity,Migrations,Identity just so i can make a raw and unpolished(CSS missing due to lack of creativity and time).
+Login for admin: admin@gmail.com !1Admin (in case someone wants to play the hero)
+Types of users : User, Member,Leader,Admin
+
+Once a user creates a new team, he becames Leader of that team, he can add project/members/tasks/comments and has full control of this team.
+Once someone adds  you in a team, you became member of that team, you can view your task and modify the status
+The admin has full coverage of the app, he can delete, update or even remove someones leadership if needed.
